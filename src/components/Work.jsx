@@ -11,41 +11,17 @@ import ProjectCard from "./ProjectCard";
 
 const WorkItem = [
   {
-    imgUrl: "/images/teju-weds-jide.jpeg",
-    title: "Wedding Website",
-    tags: ["React", "TailwindCSS"],
-    projectLink: "https://teju-weds-jide.vercel.app/",
+    imgUrl: "/images/project-1.png",
+    title: "Dark Sass Blockchain Website",
+    tags: ["React", "TailwindCSS", "Astro"],
+    projectLink: "https://dark-sass-blockchain-site.netlify.app/",
   },
   {
-    imgUrl: "/images/event-planner-website.png",
-    title: "Event Planner Website",
-    tags: ["CSS3", "React", "MongoDB"],
-    projectLink: "https://event-planner-system.vercel.app/",
+    imgUrl: "/images/project-2.png",
+    title: "IPhone 15 Clone Website",
+    tags: ["Tailwind", "React", "Three.js"],
+    projectLink: "https://phone-15-clone.netlify.app/",
   },
-  {
-    imgUrl: "/images/esther-weds-philip-website.png",
-    title: "Wedding Website",
-    tags: ["React", "TailwindCSS"],
-    projectLink: "https://esther-weds-philip.vercel.app/",
-  },
-  // {
-  //   imgUrl: "/images/project-1.jpg",
-  //   title: "Full stack music app",
-  //   tags: ["API", "MVC", "Development"],
-  //   projectLink: "",
-  // },
-  // {
-  //   imgUrl: "/images/project-2.jpg",
-  //   title: "Free stock photo app",
-  //   tags: ["API", "SPA"],
-  //   projectLink: "",
-  // },
-  // {
-  //   imgUrl: "/images/project-3.jpg",
-  //   title: "Recipe  app",
-  //   tags: ["API", "Development"],
-  //   projectLink: "",
-  // },
 ];
 
 const Work = () => {

@@ -71,7 +71,7 @@ const Hero = () => {
           <div className="flex items-center gap-3">
             <figure className="img-box w-9 h-9 rounded-lg">
               <img
-                src="/images/avatar-2.jpg"
+                src="/images/avatar.jpg"
                 width={40}
                 height={40}
                 alt="Joseph Oluwayemi potrait"
@@ -103,9 +103,10 @@ const Hero = () => {
               </span>
             </h2>
           </div>
+          
 
           <div className="button-test flex items-center gap-6 lg:gap-12  place-content-center">
-            <ButtonPrimary target="_blank" href="https://drive.google.com/file/d/1vxlD-8DVBpGaWlmhjg-enqX3N5eO5TRB/view?usp=drive_link" label="Download CV" icon="download" />
+            <ButtonPrimary target="_blank" href="https://drive.google.com/file/d/10LDBx6Jk5eZ3O5m9ZBl5aS5q5Ry1B663/view?usp=sharing" label="Download CV" icon="download" />
 
             <ButtonOutline
               href="#about"
@@ -114,17 +115,6 @@ const Hero = () => {
             />
           </div>
         </div>
-
-        {/* <div className="hidden lg:block">
-            <figure className="w-full max-w-[480px] ml-auto animate-custom-bounce bg-gradient-to-t from-slate-900/60 to-90% to-slate-950/40 rounded-[40px] overflow-hidden">
-                <img 
-                src="/images/hero-image.png"
-                width={656}
-                height={800} 
-                alt="Joseph"
-                className="w-full" />
-            </figure>
-        </div> */}
       </div>
     </section>
   );

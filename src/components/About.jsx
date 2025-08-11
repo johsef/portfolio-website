@@ -7,7 +7,7 @@
 const aboutItems = [
   {
     label: "Project completed",
-    number: 4,
+    number: 5,
     plus: true,
   },
   {
@@ -25,7 +25,7 @@ const About = () => {
           <p className="text-slate-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
             Welcome! I&apos;m Joseph, a web developer with a passion for
             crafting visually stunning, intuitive user interfaces. From modern
-            UI designs to interactive features, I'm constantly exploring new
+            UI designs to interactive features, I&apos;m constantly exploring new
             ways to elevate user experiences.
           </p>
 

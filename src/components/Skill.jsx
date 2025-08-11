@@ -41,6 +41,11 @@ const skillItem = [
     label: "TailwindCSS",
     desc: "User Interface",
   },
+  {
+    imgUrl: "/images/nextjs.svg",
+    label: "NextJS",
+    desc: "React Framework",
+  },
 ];
 
 const Skill = () => {

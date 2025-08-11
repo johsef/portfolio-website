@@ -66,7 +66,7 @@ const Contact = () => {
           </div>
         </div>
 
-        <form action="https://formsubmit.co/a6d2fb0a599865f61c67909d15c0c130" className="xl:pl-10 2xl:pl-20" method="POST">
+        <form action="https://formsubmit.co/iyanuoluwayemi19@gmail.com" className="xl:pl-10 2xl:pl-20" method="POST">
 
           <div className="md:grid md:items-center md:grid-cols-2 md:gap-2">
             <div className="mb-4">
